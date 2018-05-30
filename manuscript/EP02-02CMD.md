@@ -11,9 +11,11 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 ### การเข้าใช้งานโหมด Command Prompt
 
 1. ทำการเปิดหน้าต่าง Run โดยคลิกที่ปุ่ม Start > Run  (หรือจะใช้คีย์ลัด Windows + R) แล้ว  พิมพ์คำสั่ง CMD  
+
 ![01](images/EP02-02CMD/01.PNG)
 
 2. กด OK ก็จะเข้าสู่โหมด Command Prompt พร้อมใช้งาน   
+
 ![02](images/EP02-02CMD/02.PNG)
 
 ---
@@ -23,7 +25,7 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 1. DIR (Directory)  
 ถ้าเราต้องการดูว่าใน Folder ปัจจุบันที่เราอยู่มี Folder หรือ File อะไรอยู่ข้างในบ้าง 
     * พิมพ์คำสั่ง  
-    
+
     ```
     dir 
     ```
@@ -131,7 +133,8 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
  * สามารถใช้คำสั่ง dir เพื่อดูการเปลี่ยนแปลงได้
 
-    ![15](images/EP02-02CMD/15.PNG)  
+    ![15](images/EP02-02CMD/15.PNG)
+
 เห็นได้ว่า Folder BBB ได้ถูกสร้างขึ้นมาแล้ว
 
 ---
@@ -156,7 +159,8 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
  * สามารถใช้คำสั่ง dir เพื่อดูการเปลี่ยนแปลงได้
 
-    ![18](images/EP02-02CMD/18.PNG)  
+    ![18](images/EP02-02CMD/18.PNG) 
+     
 เห็นได้ว่า Folder AAA ได้ถูกลบไปแล้ว  
 
 ---
