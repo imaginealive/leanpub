@@ -1,7 +1,4 @@
 chapter1.txt
-EP01-00PreviewIonicCreator.txt
-EP02-03VSCode.txt
-EP05-01Dotnet.txt
 EP01-00PreviewIonicCreator.md
-EP02-03VSCode.md
+EP02-02CMD.md
 EP05-01Dotnet.md
