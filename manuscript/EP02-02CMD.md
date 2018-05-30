@@ -7,6 +7,7 @@ CMD คือ คำสั่งที่ใช้เปิด Windows Command i
 Credit : [http://www.mindphp.com](http://www.mindphp.com)
 
 ---
+
 ### การเข้าใช้งานโหมด Command Prompt
 
 1. ทำการเปิดหน้าต่าง Run โดยคลิกที่ปุ่ม Start > Run  (หรือจะใช้คีย์ลัด Windows + R) แล้ว  พิมพ์คำสั่ง CMD  
@@ -16,64 +17,90 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
 ![02](images/EP02-02CMD/02.PNG)
 
 ---
+
 ### คำสั่งพื้นฐาน
 
 1. DIR (Directory)  
 ถ้าเราต้องการดูว่าใน Folder ปัจจุบันที่เราอยู่มี Folder หรือ File อะไรอยู่ข้างในบ้าง 
     * พิมพ์คำสั่ง  
+    
     ```
     dir 
     ```
+
     ![03](images/EP02-02CMD/03.PNG)
+
 ---
+
 * เมื่อกด Enter จะแสดงข้อมูล Folder และ File ต่างๆ ที่มีอยู่ใน Folder (ที่เราอยู่)
 
     ![04](images/EP02-02CMD/04.PNG)
 
 ---
+
 2. CD (Change Directory)  
 ถ้าเราต้องการไปยัง Folder ที่เราต้องการ เช่น ต้องการไปที่ Folder Desktop
     * พิมพ์คำสั่ง  
+
     ```
     cd [ชื่อ Folder] 
     ```
+
     ![05](images/EP02-02CMD/05.PNG)
+
 ---
+
 * เมื่อกด Enter เราก็จะไปอยู่ ณ Folder ที่เราต้องการ
 
     ![06](images/EP02-02CMD/06.PNG)
   
   และถ้าเราต้องการกลับมายัง Folder ก่อนหน้า
-    * พิมพ์คำสั่ง  
+    * พิมพ์คำสั่ง 
+
     ```
     cd ..
     ```
+
     ![07](images/EP02-02CMD/07.PNG)
+
 ---
+
 * เมื่อกด Enter เราก็จะกลับมาอยู่ ณ Folder ก่อนหน้า
 
     ![08](images/EP02-02CMD/08.PNG)
+
 ---
+
 3. CLS (Clear Screen)  
 เมื่อเรารู้สึกว่าหน้าต่างเริ่มรก เราสามารถล้าง(Clear) หน้าต่างได้
     * พิมพ์คำสั่ง  
+
     ```
     cls
     ```
+
     ![09](images/EP02-02CMD/09.PNG)
+
 ---
+
 * เมื่อกด Enter หน้าต่างก็จะถูกล้าง(Clear)
 
     ![10](images/EP02-02CMD/10.PNG)
+
 ---
+
 4. เปลี่ยน Drive (ไปยัง Drive D หรือ Drive ที่มีในเครื่อง)  
 ถ้าเราต้องการไปยัง Drive ที่เราต้องการ เช่น ต้องการไปที่ Drive D
     * พิมพ์คำสั่ง  
+
     ```
     D:
     ```
+
     ![11](images/EP02-02CMD/11.PNG)
+
 ---
+
 * เมื่อกด Enter เราก็จะไปอยู่ ณ Folder ที่เราต้องการ
 
     ![12](images/EP02-02CMD/12.PNG)
@@ -81,38 +108,52 @@ Credit : [http://www.mindphp.com](http://www.mindphp.com)
    และถ้าเราต้องการรู้ว่าข้างในมีอะไรบ้างก็สามารถใช้คำสั่ง dir เพื่อดูข้อมูลได้เช่นกัน
 
     ![19](images/EP02-02CMD/19.PNG)
+
 ---
+
 3. MD (Make Directory)  
 หากเราต้องการสร้าง Folder ก็สามารถทำได้ เช่น ต้องการสร้าง Folder BBB
     * พิมพ์คำสั่ง  
+
     ```
     md [ชื่อ Folder]
     ```
+
     ![13](images/EP02-02CMD/13.PNG)
+
 ---
+
 * เมื่อกด Enter แล้ว Folder ก็จะถูกสร้าง
 
     ![14](images/EP02-02CMD/14.PNG)
+
 ---
+
  * สามารถใช้คำสั่ง dir เพื่อดูการเปลี่ยนแปลงได้
 
     ![15](images/EP02-02CMD/15.PNG)  
 เห็นได้ว่า Folder BBB ได้ถูกสร้างขึ้นมาแล้ว
 
-
 ---
+
 4. RD (Remove Directory)  
 หากเราต้องการลบ Folder ก็สามารถทำได้ เช่น ต้องการลบ Folder AAA
     * พิมพ์คำสั่ง  
+
     ```
     rd [ชื่อ Folder]
     ```
+
     ![16](images/EP02-02CMD/16.PNG)
+
 ---
+
  * เมื่อกด Enter แล้ว Folder ก็จะถูกลบ
 
     ![17](images/EP02-02CMD/17.PNG)
+
 ---
+
  * สามารถใช้คำสั่ง dir เพื่อดูการเปลี่ยนแปลงได้
 
     ![18](images/EP02-02CMD/18.PNG)  
