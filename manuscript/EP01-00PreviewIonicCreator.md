@@ -85,8 +85,8 @@ ___
 
 [VDO Link : ![alt text](images/EP01-00PreviewIonicCreator/12.PNG)](https://youtu.be/S4rTmzAyd5s)
 
-{format: HTML}
-~~~~~~~~
+{format: ruby}
+~~~
 <body class="home page-template page-template-page-templates page-template-fullwidth page-template-page-templatesfullwidth-php page page-id-643 wp-custom-logo mega-menu-primary group-blog comments-closed" data-gr-c-s-loaded="true" style="padding-bottom: 50px;"> 
  <div id="container"> 
  <a class="skip-link screen-reader-text" href="#site-main">Skip to content</a>
@@ -100,4 +100,4 @@ ___
  </p>
  <p class="site-description">Learn HTML Code, Tags &amp; CSS</p>
  </div>
-~~~~~~~~
+~~~
