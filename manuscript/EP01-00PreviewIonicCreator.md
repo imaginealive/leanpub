@@ -85,4 +85,18 @@ ___
 
 [VDO Link : ![alt text](images/EP01-00PreviewIonicCreator/12.PNG)](https://youtu.be/S4rTmzAyd5s)
 
-
+~~~ HTML
+<body class="home page-template page-template-page-templates page-template-fullwidth page-template-page-templatesfullwidth-php page page-id-643 wp-custom-logo mega-menu-primary group-blog comments-closed" data-gr-c-s-loaded="true" style="padding-bottom: 50px;"> 
+ <div id="container"> 
+ <a class="skip-link screen-reader-text" href="#site-main">Skip to content</a>
+ <header class="site-header clearfix" role="banner">
+ <div class="wrapper wrapper-header clearfix"><div class="site-branding clearfix"> 
+ <a href="https://html.com/" class="custom-logo-link" rel="home" itemprop="url">
+ <img width="250" height="53" src="https://html.com/wp-content/uploads/html-com-logo.png" class="custom-logo" alt="HTML.com logo" itemprop="logo">
+ </a>
+ <p class="site-title">
+ <a href="https://html.com/" rel="home"></a>
+ </p>
+ <p class="site-description">Learn HTML Code, Tags &amp; CSS</p>
+ </div>
+ ~~~
